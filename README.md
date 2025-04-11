@@ -7,7 +7,7 @@
 
 Um simulador interativo de juros compostos com visualização em tempo real, desenvolvido para auxiliar no planejamento financeiro pessoal.
 
-![Captura de Tela do Simulador](screenshot.png) <!-- Adicione uma screenshot real posteriormente -->
+![Captura de Tela do Simulador](https://i.imgur.com/9As9XFr.png)
 
 ## Funcionalidades Principais ✨
 
@@ -83,4 +83,4 @@ Gráficos por Chart.js
 
 Fonte Segoe UI
 
-Desenvolvido com ❤️ por [Ricardo Moura Gimenez] - Visite o Projeto Online https://rmgimenez.github.io/juros-compostos
+Desenvolvido com ❤️ por [Ricardo Moura Gimenez] - Visite o Projeto Online: https://rmgimenez.github.io/juros-compostos
